@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Echowall</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_capture">My echo</string>
+    <string name="button_send">Go echo</string>
+    <string name="username01">Billychan:</string>
+    <string name="usermsg01">A nice Sunday with you guys!</string>
+    <string name="username02">Tonytann:</string>
+    <string name="usermsg02">This is awesome! We did played some good musics.</string>
+    <string name="username03">Kellywong:</string>
+    <string name="usermsg03">The beautiful blue ocean! Feeling blessed to be here.</string>
+</resources>
